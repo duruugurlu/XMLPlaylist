@@ -1,0 +1,28 @@
+Playlist {
+	color: white;
+	width: 100%;
+}
+Song {
+	border-radius: 25px;
+    border: 2px solid #0a91c2;
+    background-color: rgba(78, 177, 232, 0.3);
+    margin-top: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+Artist, Title, Date, Genre {
+	display : block;
+    color: #000;
+    font-family: Palatino, URW Palladio L, serif;
+    font-size:18px;
+    letter-spacing: 1px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+Title {
+	font-size : 25px;
+	font-weight : bold;
+    color: #0a91c2;
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="rule.css"?>
+<Playlist>
+    <Song>
+        <Title>You Right</Title>
+        <Artist> Doja Cat, The Weeknd </Artist>
+        <Genre>R&amp;B</Genre>
+        <Date>2021</Date>
+    </Song>
+
+    <Song>
+        <Title>Skate</Title>
+        <Artist>Bruno Mars, Anderson .Paak</Artist>
+        <Genre>R&amp;B</Genre>
+        <Date>2021</Date>
+    </Song>
+
+    <Song>
+        <Title>Sweater Weather</Title>
+        <Artist>The Neighbourhood</Artist>
+        <Genre>Alternative</Genre>
+        <Date>2013</Date>
+    </Song>
+
+    <Song>
+        <Title>Mr. Brightside</Title>
+        <Artist>The Killers</Artist>
+        <Genre>Alternative</Genre>
+        <Date>2013</Date>
+    </Song>
+
+    <Song>
+        <Title>Yellow</Title>
+        <Artist>Coldplay</Artist>
+        <Genre>Alternative</Genre>
+        <Date>2000</Date>
+    </Song>
+
+    <Song>
+        <Title>Seven Nation Army</Title>
+        <Artist>The White Stripes</Artist>
+        <Genre>Rock</Genre>
+        <Date>2003</Date>
+    </Song>
+
+    <Song>
+        <Title>Zombie</Title>
+        <Artist>The Cranberries</Artist>
+        <Genre>Rock</Genre>
+        <Date>1994</Date>
+    </Song>
+
+    <Song>
+        <Title>Under the Bridge</Title>
+        <Artist>Red Hot Chilli Peppers</Artist>
+        <Genre>Rock</Genre>
+        <Date>1991</Date>
+    </Song>
+
+    <Song>
+        <Title>Under Pressure</Title>
+        <Artist>Queen, David Bowie</Artist>
+        <Genre>Rock</Genre>
+        <Date>1981</Date>
+    </Song>
+
+    <Song>
+        <Title>We Are Young</Title>
+        <Artist>fun.</Artist>
+        <Genre>Indie</Genre>
+        <Date>2012</Date>
+    </Song>
+</Playlist>
